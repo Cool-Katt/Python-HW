@@ -12,3 +12,4 @@ while action is not 'q':
     if action == '/':
         print(number1 / number2)
     action = input('Chose action: +, -, *, /, q - quit'  )
+    
